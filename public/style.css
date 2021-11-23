@@ -8838,7 +8838,7 @@ body:not(.device-touch) .social-icon i {
 .si-text-color.si-linkedin i { color: #0E76A8; }
 .si-text-color.si-vk i { color: #2B587A; }
 .si-text-color.si-rss i { color: #EE802F; }
-.si-text-color.si-skype i { color: #00AFF0; }
+/* .si-text-color.si-skype i { color: #00AFF0; }*/
 .si-text-color.si-twitter i { color: #00ACEE; }
 .si-text-color.si-youtube i { color: #C4302B; }
 .si-text-color.si-vimeo i { color: #86C9EF; }
