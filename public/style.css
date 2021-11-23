@@ -8658,8 +8658,6 @@ body:not(.device-touch) .social-icon i {
 	font-size: 15px;
 }
 
-.si-facebook:hover,
-.si-colored.si-facebook { background-color: #3B5998 !important; }
 .si-delicious:hover,
 .si-colored.si-delicious { background-color: #205CC0 !important; }
 .si-paypal:hover,
@@ -8700,29 +8698,20 @@ body:not(.device-touch) .social-icon i {
 .si-colored.si-evernote { background-color: #5BA525 !important; }
 .si-flickr:hover,
 .si-colored.si-flickr { background-color: #FF0084 !important; }
-.si-google:hover,
-.si-colored.si-google { background-color: #DD4B39 !important; }
 .si-instapaper:hover,
 .si-colored.si-instapaper { background-color: #333 !important; }
 .si-klout:hover,
 .si-colored.si-klout { background-color: #FF5F52 !important; }
-.si-linkedin:hover,
-.si-colored.si-linkedin { background-color: #0E76A8 !important; }
 .si-vk:hover,
 .si-colored.si-vk { background-color: #2B587A !important; }
 .si-rss:hover,
 .si-colored.si-rss { background-color: #EE802F !important; }
-.fa-skype:hover { color: #00AFF0 !important; }
-.si-twitter:hover,
-.si-colored.si-twitter { background-color: #00ACEE !important; }
 .si-youtube:hover,
 .si-colored.si-youtube { background-color: #C4302B !important; }
 .si-vimeo:hover,
 .si-colored.si-vimeo { background-color: #86C9EF !important; }
 .si-aim:hover,
 .si-colored.si-aim { background-color: #FCD20B !important; }
-.si-yahoo:hover,
-.si-colored.si-yahoo { background-color: #720E9E !important; }
 .si-email3:hover,
 .si-colored.si-email3 { background-color: #6567A5 !important; }
 .si-macstore:hover,
@@ -8739,8 +8728,6 @@ body:not(.device-touch) .social-icon i {
 .si-colored.si-ebay { background-color: #89C507 !important; }
 .si-github:hover,
 .si-colored.si-github { background-color: #171515 !important; }
-.si-googleplay:hover,
-.si-colored.si-googleplay { background-color: #DD4B39 !important; }
 .si-itunes:hover,
 .si-colored.si-itunes { background-color: #222 !important; }
 .si-plurk:hover,
@@ -8801,11 +8788,17 @@ body:not(.device-touch) .social-icon i {
 .si-colored.si-plancast { background-color: #222 !important; }
 .si-appstore:hover,
 .si-colored.si-appstore { background-color: #000 !important; }
-.si-pinterest:hover,
-.si-colored.si-pinterest { background-color: #C8232C !important; }
 .si-fivehundredpx:hover,
 .si-colored.si-fivehundredpx { background-color: #111 !important; }
-
+.fa-facebook-f:hover { color: #3B5998 !important; }
+.fa-google-plus-g:hover { color: #DD4B39 !important; }
+.fa-linkedin:hover { color: #0E76A8 !important; }
+.fa-pinterest:hover { color: #C8232C !important; }
+.fa-skype:hover { color: #00AFF0 !important; }
+.fa-telegram:hover { color: #0088cc !important; }
+.fa-twitter:hover { color: #00ACEE !important; }
+.fa-whatsapp:hover { color: #25D366 !important; }
+.fa-yahoo:hover { color: #720E9E !important; }
 
 /* Social Icons Text Color
 -----------------------------------------------------------------*/
@@ -8831,17 +8824,13 @@ body:not(.device-touch) .social-icon i {
 .si-text-color.si-dribbble i { color: #EA4C89; }
 .si-text-color.si-evernote i { color: #5BA525; }
 .si-text-color.si-flickr i { color: #FF0084; }
-.si-text-color.si-google i { color: #DD4B39; }
 .si-text-color.si-instapaper i { color: #333; }
 .si-text-color.si-klout i { color: #FF5F52; }
-.si-text-color.si-linkedin i { color: #0E76A8; }
 .si-text-color.si-vk i { color: #2B587A; }
 .si-text-color.si-rss i { color: #EE802F; }
-.si-text-color.si-twitter i { color: #00ACEE; }
 .si-text-color.si-youtube i { color: #C4302B; }
 .si-text-color.si-vimeo i { color: #86C9EF; }
 .si-text-color.si-aim i { color: #FCD20B; }
-.si-text-color.si-yahoo i { color: #720E9E; }
 .si-text-color.si-email3 i { color: #6567A5; }
 .si-text-color.si-macstore i { color: #333333; }
 .si-text-color.si-myspace i { color: #666666; }
@@ -8850,7 +8839,6 @@ body:not(.device-touch) .social-icon i {
 .si-text-color.si-dropbox i { color: #3D9AE8; }
 .si-text-color.si-ebay i { color: #89C507; }
 .si-text-color.si-github i { color: #171515; }
-.si-text-color.si-googleplay i { color: #DD4B39; }
 .si-text-color.si-itunes i { color: #222; }
 .si-text-color.si-plurk i { color: #CF5A00; }
 .si-text-color.si-pinboard i { color: #0000E6; }
@@ -8881,7 +8869,6 @@ body:not(.device-touch) .social-icon i {
 .si-text-color.si-disqus i { color: #E4E7EE; }
 .si-text-color.si-plancast i { color: #222; }
 .si-text-color.si-appstore i { color: #000; }
-.si-text-color.si-pinterest i { color: #C8232C; }
 .si-text-color.si-fivehundredpx i { color: #111; }
 
 .si-text-color:hover { color: #FFF; }
